@@ -3,7 +3,7 @@ Prova Orlando
 
 Foi Craido um aplicativo para cadastro de curso com acesso a Banco de dados MySQL.
 
-Junto com os arquivos PHP esta um Um banco de dados SQL com duas tabelas, uma de chamada "usuario" para Login e Senha e outra chamada cadastro onde as pessoas cadastradas ficam arquivadas.
+Junto com os arquivos PHP esta um Um banco de dados SQL (web2.sql)com duas tabelas, uma de chamada "usuario" para Login e Senha e outra chamada cadastro onde as pessoas cadastradas ficam arquivadas.
 
 Senha e usuário para acesso:
 
